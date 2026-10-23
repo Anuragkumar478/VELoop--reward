@@ -185,6 +185,12 @@ function App() {
             </div>
 
             <div className="banner-section">
+              <div>hello hello</div>
+                  <div>hello hello</div>
+                      <div>hello hello</div>
+                          <div>hello hello</div>
+                              <div>hello hello</div>
+                                  <div>hello hello</div>    <div>hello hello</div>
               <ExchangeCenterBanner onNavigate={openFeature} />
             </div>
           </div>
