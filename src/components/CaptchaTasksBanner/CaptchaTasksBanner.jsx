@@ -38,7 +38,10 @@ export default function CaptchaTasksBanner({ onNavigate }) {
   Start Task
   <ArrowRight size={17} />
 </button>
-
+<div></div>
+        <div></div>
+<div></div>
+      
         <div className={styles.process}>
           <span><Keyboard size={17} /> Complete</span>
           <span className={styles.dots}>···</span>
