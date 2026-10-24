@@ -39,6 +39,7 @@ export default function BonusVEsBanner({ onNavigate }) {
             </span>
           </div>
           <div>
+            <div></div>
             <CircleCheck />
             <span>
               Invite friends
