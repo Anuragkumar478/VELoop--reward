@@ -32,6 +32,8 @@ export default function ReferEarnBanner({ onNavigate }) {
       aria-labelledby="refer-title"
     >
       <div className={styles.content}>
+     <div>adding the div for learning</div>
+
         <span className={styles.eyebrow}>
           <Users size={15} /> REFER &amp; EARN
         </span>
