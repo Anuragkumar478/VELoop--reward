@@ -28,6 +28,8 @@ export default function ReferEarnBanner({ onNavigate }) {
   return (
     <section>
      <div>adding the div there</div>
+     <div>adding on new file also there</div>
+     <div>therew we check or bullmq</div>
     </section>
   );
 }
