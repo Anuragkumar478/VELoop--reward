@@ -32,6 +32,7 @@ export default function ReferEarnBanner({ onNavigate }) {
      <div>therew we check or bullmq</div>
      <div>adding there one file also when somone update the file </div>
      <div>adding one new file also </div>
+     <div>adding also one new file there</div>
     </section>
   );
 }
