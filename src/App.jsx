@@ -186,7 +186,8 @@ function App() {
 
             <div className="banner-section">
               <div>hello hello</div>
-                  
+                  <div>hellow worl</div>
+                  <div>hellow worldg</div>
 
                                   <div>hello hello</div>    <div>hello hello</div>
               <ExchangeCenterBanner onNavigate={openFeature} />
